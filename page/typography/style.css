@@ -11,6 +11,22 @@ body {
 }
 
 
-#main {
+#example-work {
+	padding: 30px;
+	font-size: 15px;
+	text-align: left;
+}
 
+
+#my-work {
+	padding: 30px;
+	font-size: 15px;
+	text-align: left;
+}
+
+
+#footer {
+	clear: both;
+	font-size: 10px;
+	text-align: center;
 }
