@@ -52,6 +52,11 @@ li a:hover {
 }
 
 
+#previews a:hover {
+	filter: brightness(80%);
+}
+
+
 #footer {
 	clear: both;
 	font-size: 10px;
