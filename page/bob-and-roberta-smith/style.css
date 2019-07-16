@@ -18,10 +18,20 @@ body {
 }
 
 
+#example-work a:hover {
+	filter: brightness(80%);
+}
+
+
 #my-work {
 	padding: 30px;
 	font-size: 15px;
 	text-align: left;
+}
+
+
+#my-work a:hover {
+	filter: brightness(80%);
 }
 
 
