@@ -11,17 +11,20 @@ body {
 }
 
 
-#example-work {
+#board {
 	padding: 30px;
 	font-size: 15px;
 	text-align: left;
 }
 
 
-#my-work {
-	padding: 30px;
-	font-size: 15px;
-	text-align: left;
+#board a:hover {
+	filter: brightness(80%);
+}
+
+
+#pinterest a:hover {
+	filter: brightness(80%);
 }
 
 
