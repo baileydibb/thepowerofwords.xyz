@@ -26,6 +26,11 @@ body {
 }
 
 
+#navigate h1 {
+	padding-right: 30px;
+}
+
+
 ul {
 	list-style-type: none;
 }
