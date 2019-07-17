@@ -17,6 +17,15 @@ body {
 	text-align: left;
 }
 
+#my-work img {
+	padding: 10px;
+}
+
+
+#my-work h2 {
+	padding-left: 10%;
+}
+
 
 #my-work a:hover {
 	filter: brightness(80%);
