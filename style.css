@@ -4,6 +4,23 @@
 }
 
 
+#header {
+	padding-right: 200px;
+}
+
+
+#header a {
+	float: left;
+	padding-left: 115px;
+	padding-top: 10px;
+}
+
+
+#header a:hover {
+	filter: brightness(80%);
+}
+
+
 body {
 	background-color: #404040;
 	color: white;
@@ -36,7 +53,7 @@ ul {
 }
 
 
-li a {
+#navigate li a {
 	display: block;
 	color: white;
 	text-align: center;
@@ -66,4 +83,16 @@ li a:hover {
 	clear: both;
 	font-size: 10px;
 	text-align: center;
+}
+
+
+#footer ul {
+	padding-left: 47.5%;
+}
+
+
+#footer li {
+	display: inline;
+	float: left;
+	padding: 10px;
 }
