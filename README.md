@@ -1,4 +1,4 @@
-# The Power of Words
+# thepowerofwords.xyz
 This repository contains the all of the files for my old website - an art project about the power of words.
 
 To visit the site, go to https://thepowerofwords.xyz
