@@ -5,6 +5,6 @@ To visit the site, go to https://thepowerofwords.xyz
 
 
 
-To visit the updated repository go to https://github.com/baileydibb/thepowerofwordsspace
+To visit the updated repository go to https://github.com/baileydibb/thepowerofwords.space
 
 To visit the updated site, go to https://thepowerofwords.space
